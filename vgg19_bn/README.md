@@ -1,2 +1,0 @@
-# VGG classification implementation for poultry disease detection
-The code is trained locally that is why the dataset has to be downloaded locally as well from the provided link: https://zenodo.org/records/4628934#.Y9klD3ZByUn
