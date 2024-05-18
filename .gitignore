@@ -4,3 +4,4 @@ data*
 .DS_Store
 __pycache__
 vgg19_bn/vgg.pth
+*/checkpoint_poultry.tar
